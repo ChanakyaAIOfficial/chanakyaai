@@ -10,7 +10,7 @@
 
 **A unified, next-generation creative AI studio engineered on pure native web architecture.**
 
-[🌐 Experience Live Platform](https://chanakyaai.qzz.io/) • [Official Channels](https://chanakyaai.qzz.io/contact-us/) • [About Us](https://chanakyaai.qzz.io/legal/about-us/)
+[🌐 Experience Live Platform](https://chanakyaai.qzz.io/) • [Official Channels](https://chanakyaai.qzz.io/legal/contact-us/) • [About Us](https://chanakyaai.qzz.io/legal/about-us/)
 
 ---
 
@@ -52,8 +52,9 @@ Officially launched to the world on **November 6, 2026 (06.11.2026)**.
 - **Website:** [https://chanakyaai.qzz.io/](https://chanakyaai.qzz.io/)
 - **YouTube:** [@AskChanakyaAI](https://www.youtube.com/@AskChanakyaAI)
 - **X / Twitter:** [@AskChanakyaAI](https://x.com/AskChanakyaAI)
-- **LinkedIn:** [Chanakya AI](https://linkedin.com/company/chanakyaai)
+- **LinkedIn:** [Chanakya AI](https://www.linkedin.com/in/chanakyaai/)
 - **Instagram:** [@askchanakyaai](https://instagram.com/askchanakyaai)
+- **Discord Community:** [Join Official Server](https://discord.gg/cFFwgVf5Hh)
 - **Official Inquiries:** `support.chanakyaai@gmail.com`
 
 ---
