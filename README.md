@@ -3,10 +3,10 @@
 # 🏛️ CHANAKYA AI
 ### *One AI, Infinite Possibilities.*
 
-[![Status](https://img.shields.io/badge/Status-LIVE-00ff66?style=flat-square)](https://chanakyaai.qzz.io/)
-[![Architecture](https://img.shields.io/badge/Architecture-Pure%20Native%20Web-00f3ff?style=flat-square)](https://chanakyaai.qzz.io/)
-[![Official Launch](https://img.shields.io/badge/Official%20Launch-06.11.2026-a855f7?style=flat-square)](https://chanakyaai.qzz.io/)
-[![Edge Network](https://img.shields.io/badge/Network-Cloudflare%20QUIC-f59e0b?style=flat-square)](https://chanakyaai.qzz.io/)
+[![Status](https://img.shields.io/badge/Status-LIVE-1f883d?style=flat-square)](https://chanakyaai.qzz.io/)
+[![Architecture](https://img.shields.io/badge/Architecture-Pure%20Native%20Web-0969da?style=flat-square)](https://chanakyaai.qzz.io/)
+[![Official Launch](https://img.shields.io/badge/Official%20Launch-06.11.2026-8250df?style=flat-square)](https://chanakyaai.qzz.io/)
+[![Edge Network](https://img.shields.io/badge/Network-Cloudflare%20QUIC-bf8700?style=flat-square)](https://chanakyaai.qzz.io/)
 
 **A unified, next-generation creative AI studio engineered on pure native web architecture.**
 
